@@ -259,6 +259,8 @@ That's it. Your planning directory will contain numbered split directories with 
 ```
 Then scroll to "Installed", find `deep-project`, and click "Enable".
 
+> **Already installed `/deep-plan` or `/deep-implement`?** All three plugins share a marketplace. If you've already added any one of the deep trilogy repos, just run `/plugin install deep-project` directly — no need to add another marketplace.
+
 ### Manual Installation
 
 **Option A: Via settings.json**
